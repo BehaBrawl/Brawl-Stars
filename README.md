@@ -1,6 +1,6 @@
 <html>
     # Brawl-Stars
-    <body style="background-color:darklilac">
+    <body style="background-color:darkyellow">
         <header style="color:black; text-align:center;font-size:50px"><a href="brawl-go-stars-world-brawlers-running-apk/641d/#gsc.tab=0">Go Brawl</a></header>
         <h2 style="color:black; text-align:center;font-size:40px"><a href="com.supercell.brawlstars&hl=en_US">It's a COOL GAME</a></h2>
         <img srcset="https:/cdn.pixabay.com/photo/2019/09/30/01/48/brawl-stars-4514650_960_720.png 1x, https://cdn.pixabay.com/photo/2019/09/30/01/48/brawl-stars-               4514650_1280.png 2x" src="https://cdn.pixabay.com/photo/2019/09/30/01/48/brawl-stars-4514650_960_720.png"width="870" height="650" style="height:auto">
